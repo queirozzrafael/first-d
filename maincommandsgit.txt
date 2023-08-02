@@ -1,0 +1,8 @@
+git clone (clonar um repositório) 
+
+
+
+git status (status) 
+git add .  (adicionar um arquivo ao reposiório)
+git commit -m "descrição" (criar commit) 
+git push origin main (push para enviar ao repositório) 
